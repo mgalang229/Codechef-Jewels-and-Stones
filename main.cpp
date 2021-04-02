@@ -7,7 +7,6 @@ int main() {
 	cin.tie(0);
 	int tt;
 	cin >> tt;
-	cin.ignore();
 	while (tt--) {
 		string j, s;
 		cin >> j >> s;
